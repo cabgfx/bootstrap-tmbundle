@@ -1,4 +1,4 @@
-# Twitter Bootstrap bundle for TextMate
+# TextMate bundle for [Twitter Bootstrap 2](http://twitter.github.com/bootstrap).
 
 Very alpha :)
 
@@ -21,4 +21,6 @@ At the moment, only the following snippets are available in HTML or JS flavored 
 
 When using the accordion snippets, you can tab through attributes and quickly fill in everything without missing a spot.
 
-It is currently targeting [Bootstrap 2](http://twitter.github.com/bootstrap).
+## TODO's / wishlist
+
+* Add command(s) to open the bootstrap docs in the browser, preferably "context-aware" ie. go to JS docs when working with JavaScript.
