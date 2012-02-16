@@ -9,7 +9,7 @@
       $0
     &lt;/a&gt;
   &lt;/div&gt;
-  &lt;div id="$2" class="accordion-body collapse in"&gt;
+  &lt;div id="$2" class="accordion-body collapse"&gt;
     &lt;div class="accordion-inner"&gt;
       
     &lt;/div&gt;
