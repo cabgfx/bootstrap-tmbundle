@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="${1:accordion}" id="${2:accordion}"&gt;
+  &lt;div class="accordion-group"&gt;
+    &lt;div class="accordion-heading"&gt;
+      &lt;a class="accordion-toggle" data-toggle="collapse" data-parent="#$2" href="#${3:collapseOne}"&gt;
+        $0
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div id="$3" class="accordion-body collapse in"&gt;
+      &lt;div class="accordion-inner"&gt;
+        
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;!-- #$2 --&gt;</string>
+	<key>name</key>
+	<string>Accordion </string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>acc</string>
+	<key>uuid</key>
+	<string>9A7FC8A5-35AB-452B-8033-034105EE0E4A</string>
+</dict>
+</plist>

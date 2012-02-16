@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="modal fade"&gt;
+  &lt;div class="modal-header"&gt;
+    &lt;a class="close" data-dismiss="modal"&gt;×&lt;/a&gt;
+    &lt;h3&gt;&lt;/h3&gt;
+  &lt;/div&gt;
+  &lt;div class="modal-body"&gt;
+    $0
+  &lt;/div&gt;
+  &lt;div class="modal-footer"&gt;
+    &lt;a href="#" class="btn" data-dismiss="modal"&gt;Luk vinduet&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</string>
+	<key>name</key>
+	<string>Modal </string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>modal</string>
+	<key>uuid</key>
+	<string>D9C00C5D-AA81-40DD-B21B-B6868B049A97</string>
+</dict>
+</plist>
