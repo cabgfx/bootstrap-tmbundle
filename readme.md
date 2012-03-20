@@ -24,3 +24,4 @@ When using the accordion snippets, you can tab through attributes and quickly fi
 ## TODO's / wishlist
 
 * Add command(s) to open the bootstrap docs in the browser, preferably "context-aware" ie. go to JS docs when working with JavaScript.
+* Add snippets for buttons incl. groups & toolbars: `btn`, `btng`, `btnt`.
