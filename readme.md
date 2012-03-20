@@ -18,6 +18,7 @@ At the moment, only the following snippets are available in HTML or JS flavored 
 * Modal box
 * Accordion 
 * Accordion group
+* Page header
 
 When using the accordion snippets, you can tab through attributes and quickly fill in everything without missing a spot.
 
