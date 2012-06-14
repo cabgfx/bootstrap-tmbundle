@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="control-group"&gt;
+  &lt;label class="control-label" for="$1"&gt;$2&lt;/label&gt;
+  
+  &lt;div class="controls"&gt;
+    &lt;input id="${1}" type="$3"&gt;
+	$0
+  &lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Control group (horz. forms)</string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>cgrp</string>
+	<key>uuid</key>
+	<string>93E5F4E6-6BE5-42B4-8BB9-4D0E95BF11D3</string>
+</dict>
+</plist>
