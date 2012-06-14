@@ -15,12 +15,13 @@ At the moment, only the following snippets are available in HTML or JS flavored 
 
 (scope selector: `text.html, source.js`)
 
-* Modal box
-* Accordion 
-* Accordion group
-* Page header
+* Modal box [`modal⇥`]
+* Accordion [`acc⇥`]
+* Accordion group [`accg⇥`]
+* Page header [`phead⇥`]
+* Control groups wrapper, for horizontal forms [`cgrp⇥`]
 
-When using the accordion snippets, you can tab through attributes and quickly fill in everything without missing a spot.
+When using the accordion or control group snippets, you can tab through attributes and quickly fill in everything without missing a spot.
 
 ## TODO's / wishlist
 
