@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;${1:div} class="row"&gt;
+  &lt;${2:div} class="span${3:12}"&gt;
+    $0
+  &lt;/$2&gt;
+&lt;/$1&gt;</string>
+	<key>name</key>
+	<string>Row</string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>row</string>
+	<key>uuid</key>
+	<string>EDCAEE11-4DD3-4F36-A89A-0B6B5E79DE99</string>
+</dict>
+</plist>
