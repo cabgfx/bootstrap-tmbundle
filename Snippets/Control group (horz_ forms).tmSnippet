@@ -7,7 +7,7 @@
   &lt;label class="control-label" for="$1"&gt;$2&lt;/label&gt;
   
   &lt;div class="controls"&gt;
-    &lt;input id="${1}" type="$3"&gt;
+	&lt;input id="${1}" type="$3"&gt;
 	$0
   &lt;/div&gt;
 &lt;/div&gt;</string>
