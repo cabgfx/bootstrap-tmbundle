@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;div class="control-group"&gt;
+  &lt;%= ${1:f}.label :${2:attribute}, :class =&gt; 'control-label' %&gt;
+
+  &lt;div class="controls"&gt;
+    &lt;%= f.${3:text}_field :$2 %&gt;
+    $0
+  &lt;/div&gt;
+&lt;/div&gt;</string>
+	<key>name</key>
+	<string>Control group - Rails (horz. form)</string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>cgrpr</string>
+	<key>uuid</key>
+	<string>86DD3602-0590-432D-9362-925F6AB2F844</string>
+</dict>
+</plist>
