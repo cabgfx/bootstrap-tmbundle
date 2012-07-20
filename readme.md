@@ -12,12 +12,13 @@ osascript -e 'tell app "TextMate" to reload bundles'
 ```
 
 At the moment, only the following snippets are available in HTML or JS flavored files (eg. Rails templates).
+When using these snippets, you can tab through attributes and quickly fill in everything without missing a spot.
 
 (scope selector: `text.html, source.js`)
 
 ### Grid
-* Grid container markup (ie. `<div class="container"><div class="row"><div class="grid*">`) [`cgrpr⇥`]
-* Row container markup (ie. `<div class="row"><div class="grid*">`) [`cgrpr⇥`]
+* Grid container markup (ie. `<div class="container"><div class="row"><div class="grid*">`) [`grid⇥`]
+* Row container markup (ie. `<div class="row"><div class="grid*">`) [`row⇥`]
 
 ### Typography
 * Page header [`phead⇥`]
@@ -30,8 +31,6 @@ At the moment, only the following snippets are available in HTML or JS flavored 
 * Modal box [`modal⇥`]
 * Accordion [`acc⇥`]
 * Accordion group [`accg⇥`]
-
-When using the accordion or control group snippets, you can tab through attributes and quickly fill in everything without missing a spot.
 
 ## TODO's / wishlist
 
