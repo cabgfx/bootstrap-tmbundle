@@ -15,11 +15,21 @@ At the moment, only the following snippets are available in HTML or JS flavored 
 
 (scope selector: `text.html, source.js`)
 
+### Grid
+* Grid container markup (ie. `<div class="container"><div class="row"><div class="grid*">`) [`cgrpr⇥`]
+* Row container markup (ie. `<div class="row"><div class="grid*">`) [`cgrpr⇥`]
+
+### Typography
+* Page header [`phead⇥`]
+
+### Forms
+* Control groups wrapper, for horizontal forms [`cgrp⇥`]
+* Control groups wrapper, for horizontal forms (for Rails form builders `<%= f.text_field %>` etc.) [`cgrpr⇥`]
+
+### Javascript plugins (markup only)
 * Modal box [`modal⇥`]
 * Accordion [`acc⇥`]
 * Accordion group [`accg⇥`]
-* Page header [`phead⇥`]
-* Control groups wrapper, for horizontal forms [`cgrp⇥`]
 
 When using the accordion or control group snippets, you can tab through attributes and quickly fill in everything without missing a spot.
 
