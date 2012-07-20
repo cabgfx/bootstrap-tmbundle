@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;${1:div} class="container"&gt;
+  &lt;${2:div} class="row"&gt;
+    &lt;${3:div} class="span$4"&gt;
+      $0
+    &lt;/$3&gt;
+  &lt;/$2&gt;
+&lt;/$1&gt;</string>
+	<key>name</key>
+	<string>Grid</string>
+	<key>scope</key>
+	<string>text.html, source.js</string>
+	<key>tabTrigger</key>
+	<string>grid</string>
+	<key>uuid</key>
+	<string>A252D566-10ED-405E-BC1A-8AE730EFBEF3</string>
+</dict>
+</plist>
