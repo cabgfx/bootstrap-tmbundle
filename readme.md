@@ -1,8 +1,9 @@
 # TextMate bundle for [Twitter Bootstrap 2](http://twitter.github.com/bootstrap).
+with optional support for Sublime Text 2.
 
-Very alpha :)
+## Installation
 
-**Installation**
+#### Textmate 1.5.x
 
 ```
 mkdir -p ~/Library/Application\ Support/TextMate/Bundles/
@@ -11,8 +12,22 @@ git clone git://github.com/cabgfx/bootstrap-tmbundle.git Bootstrap.tmbundle
 osascript -e 'tell app "TextMate" to reload bundles'
 ```
 
-At the moment, only the following snippets are available in HTML or JS flavored files (eg. Rails templates).
+#### Sublime Text 2
+Please note: this bundle is primarily targeted at Textmate, and support for Sublime Text 2 is experimental.
+If you use Sublime Text 2, and see areas that can be improved for dual compatibility, pull requests are greatly appreciated.
+
+```
+mkdir -p ~/Library/Application Support/Sublime Text 2/Packages
+cd ~/Library/Application Support/Sublime Text 2/Packages
+git clone git://github.com/cabgfx/bootstrap-tmbundle.git Bootstrap.tmbundle
+```
+
+## Snippets
+
+The following snippets are currently available in HTML or JS flavored files (eg. Rails templates).
 When using these snippets, you can tab through attributes and quickly fill in everything without missing a spot.
+
+More snippets will be added on an ongoing basis.
 
 (scope selector: `text.html, source.js`)
 
