@@ -31,21 +31,31 @@ More snippets will be added on an ongoing basis.
 
 (scope selector: `text.html, source.js`)
 
-### Grid
-* Grid container markup (ie. `<div class="container"><div class="row"><div class="grid*">`) [`grid⇥`]
-* Row container markup (ie. `<div class="row"><div class="grid*">`) [`row⇥`]
+### Scaffolding
+#### Grid system
+* Grid container markup (ie. `<div class="container"><div class="row"><div class="grid*">`) **[`grid⇥`]**
+* Row container markup (ie. `<div class="row"><div class="grid*">`) **[`row⇥`]**
 
-### Typography
-* Page header [`phead⇥`]
+### Base CSS
+#### Typography
+* Page header **[`phead⇥`]**
 
-### Forms
-* Control groups wrapper, for horizontal forms [`cgrp⇥`]
-* Control groups wrapper, for horizontal forms (for Rails form builders `<%= f.text_field %>` etc.) [`cgrpr⇥`]
+#### Forms
+* Control groups wrapper, for horizontal forms **[`cgrp⇥`]**
+* Control groups wrapper, for horizontal forms (for Rails form builders `<%= f.text_field %>` etc.) **[`cgrpr⇥`]**
 
-### Javascript plugins (markup only)
-* Modal box [`modal⇥`]
-* Accordion [`acc⇥`]
-* Accordion group [`accg⇥`]
+### Components
+#### Navbar
+* Basic navbar (white) **[`navb⇥`]**
+* Responsive navbar (white, incl. `.btn-collapse` and `.nav-collapse` elements) **[`navbr⇥`]**
+
+### Javascript
+
+Note: these snippets only generate required markup for the Bootstrap JS components.
+
+* Modal box **[`modal⇥`]**
+* Accordion **[`acc⇥`]**
+* Accordion group **[`accg⇥`]**
 
 ## TODO's / wishlist
 
